@@ -1,13 +1,12 @@
-import java.util.*;
+
 class calu
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Enter the number");
-		Scanner scan = new Scanner(System.in);
-		int a=scan.nextInt();
-		int b=scan.nextInt();
 		
-		System.out.println("Sum of a and b is" + (a+b));
+		int a=10;
+		int b=20;
+		int sum=a+b;
+		System.out.println("Sum of a and b is"+ sum);
 	}
 }
