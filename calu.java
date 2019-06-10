@@ -1,5 +1,5 @@
 import java.util.*;
-class cal
+class calu
 {
 	public static void main(String[] args)
 	{
